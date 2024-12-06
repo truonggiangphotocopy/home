@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Japtor - Config" />
+    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Ichibulup - Config">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/inter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j3.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j5.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j6.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/j7.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/japtor.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/font-awesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sign-in.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,11 +65,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733453723687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ichibulup - Config">
+      <option name="closed" value="true" />
+      <created>1733454507846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733454507846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Japtor - Config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Japtor - Config" />
+    <MESSAGE value="Ichibulup - Config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ichibulup - Config" />
   </component>
 </project>
