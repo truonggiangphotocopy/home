@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Ichibulup - Config">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/inter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j4.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j5.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j6.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/j7.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/japtor.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/material.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/font-awesome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/author.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sign-in.html" afterDir="false" />
-    </list>
+    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Ichibulup - Config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733454507846</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ichibulup - Config">
+      <option name="closed" value="true" />
+      <created>1733465619439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733465619439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
