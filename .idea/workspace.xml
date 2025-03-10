@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Co-authored-by: ichibulup &lt;ichibulup@gmail.com&gt;" />
+    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Config&#10;Co-authored-by: Ichibulup de Gortheia &lt;ichibulup@gmail.com&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +56,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#6 on capital",
+    "git-widget-placeholder": "capital",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,7 +84,7 @@
       <updated>1733401029451</updated>
       <workItem from="1733401030835" duration="173000" />
       <workItem from="1733448152221" duration="1679000" />
-      <workItem from="1741628298753" duration="1673000" />
+      <workItem from="1741628298753" duration="2245000" />
     </task>
     <task id="LOCAL-00001" summary="Japtor - Config">
       <option name="closed" value="true" />
@@ -142,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741629952900</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Config&#10;Co-authored-by: Ichibulup de Gortheia &lt;ichibulup@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1741630105009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741630105009</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +164,7 @@
     <MESSAGE value="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
     <MESSAGE value="Co-authored-by: ichibulup ichibulup@gmail.com" />
     <MESSAGE value="Co-authored-by: ichibulup &lt;ichibulup@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Co-authored-by: ichibulup &lt;ichibulup@gmail.com&gt;" />
+    <MESSAGE value="Config&#10;Co-authored-by: Ichibulup de Gortheia &lt;ichibulup@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config&#10;Co-authored-by: Ichibulup de Gortheia &lt;ichibulup@gmail.com&gt;" />
   </component>
 </project>
