@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
+    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Co-authored-by: ichibulup ichibulup@gmail.com">
+      <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/bower.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +86,7 @@
       <updated>1733401029451</updated>
       <workItem from="1733401030835" duration="173000" />
       <workItem from="1733448152221" duration="1679000" />
-      <workItem from="1741628298753" duration="802000" />
+      <workItem from="1741628298753" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="Japtor - Config">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741629082365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Co-authored-by: ichibulup ichibulup@gmail.com">
+      <option name="closed" value="true" />
+      <created>1741629209660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741629209660</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +148,7 @@
     <MESSAGE value="Ichibulup - Config" />
     <MESSAGE value="Merge pull request #3 from truonggiangphotocopy/master&#10;&#10;Master" />
     <MESSAGE value="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
-    <option name="LAST_COMMIT_MESSAGE" value="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
+    <MESSAGE value="Co-authored-by: ichibulup ichibulup@gmail.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="Co-authored-by: ichibulup ichibulup@gmail.com" />
   </component>
 </project>

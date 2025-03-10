@@ -1,8 +1,8 @@
 {
   "name": "material-kit",
-  "homepage": "https://github.com/goraria",
+  "homepage": "https://github.com/truonggiangphotocopy",
   "authors": [
-    "creative-tim"
+    "truonggiangphotocopy"
   ],
   "description": "A Badass Bootstrap UI Kit based on Material Design",
   "main": "index.html",
@@ -15,7 +15,7 @@
     "google",
     "twitter"
   ],
-  "license": "Creative TIM License",
+  "license": "GORTH License",
   "ignore": [
     "**/.*",
     "node_modules",
