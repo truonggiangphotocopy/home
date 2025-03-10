@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Ichibulup - Config">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="93800512-2382-44dd-9b62-7d9f3603b806" name="Changes" comment="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,16 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/truonggiangphotocopy/home.git",
     "accountId": "28574b24-19d0-4bfb-9232-acae83a80df3"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "truonggiangphotocopy",
+    "repository": "home"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -76,7 +84,7 @@
       <updated>1733401029451</updated>
       <workItem from="1733401030835" duration="173000" />
       <workItem from="1733448152221" duration="1679000" />
-      <workItem from="1741628298753" duration="446000" />
+      <workItem from="1741628298753" duration="802000" />
     </task>
     <task id="LOCAL-00001" summary="Japtor - Config">
       <option name="closed" value="true" />
@@ -110,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733465619439</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com">
+      <option name="closed" value="true" />
+      <created>1741629082364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741629082365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +136,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Japtor - Config" />
     <MESSAGE value="Ichibulup - Config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ichibulup - Config" />
+    <MESSAGE value="Merge pull request #3 from truonggiangphotocopy/master&#10;&#10;Master" />
+    <MESSAGE value="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="Co-authored-by: truonggiangphotocopy truonggiangpham.playstation@gmail.com" />
   </component>
 </project>
